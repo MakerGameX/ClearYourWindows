@@ -1,7 +1,7 @@
 # 🧹 Clear Your Windows - Ultimate Edition 🚀
 Clear Your Windows es un script interactivo desarrollado en Batch y PowerShell diseñado específicamente para programadores y usuarios avanzados que buscan exprimir al máximo el rendimiento de su PC con Windows 10 u 11.
 
-Esta herramienta elimina el "bloatware" (basura preinstalada), optimiza el consumo de RAM/CPU y configura automáticamente un entorno de desarrollo profesional en minutos.
+Esta herramienta elimina el bloatware (basura preinstalada), optimiza el consumo de RAM/CPU y configura automáticamente un entorno de desarrollo profesional en minutos.
 
 📋 Características Principales
 🗑️ Limpieza de Sistema
